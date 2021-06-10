@@ -3,6 +3,15 @@ import java.util.*;
 import java.util.Scanner;
 
 public class input {
+	
+	/*
+	@brief 상품입고
+	@detail 상품 갯수 추가를 위한 클래스
+	@author 박서영
+	@date 21.06.10
+	@version 1.0.1
+	*/
+	
 	public void Input() {
 		Mainmenu m = new Mainmenu();
 		Scanner scan = new Scanner(System.in);

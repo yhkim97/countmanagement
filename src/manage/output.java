@@ -4,6 +4,15 @@ import java.util.*;
 import java.util.Scanner;
 
 public class output {
+	
+	/*
+	@brief 상품 출고
+	@detail 상품 개수를 출고하기 위한 클래스
+	@author 김용희
+	@date 21.06.10
+	@version 1.0.1
+	*/
+	
 	public void Output() {
 
 		Mainmenu m = new Mainmenu();

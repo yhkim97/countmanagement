@@ -4,6 +4,14 @@ import java.util.Scanner;
 
 public class stock {
 	
+	/*
+	@brief 재고 파악
+	@detail 현재 상품의 재고파악을 위한 클래스
+	@author 최명규
+	@date 21.06.10
+	@version 1.0.1
+	*/
+	
 	public void Stock() {
 		Mainmenu m = new Mainmenu();
 		

@@ -3,6 +3,13 @@ import java.util.*;
 import java.util.Scanner;
 
 public class Mainmenu {
+	/*
+	@brief 메뉴선택
+	@detail 메뉴선택을 위해 필요한 메소드 호출
+	@author 조훈희
+	@date 21.06.10
+	@version 1.0.1
+	*/
 	static int top, bottom , shoes  = 0;
 	static int num;
 	

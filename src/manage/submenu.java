@@ -3,6 +3,15 @@ import java.util.*;
 import java.util.Scanner;
 
 public class submenu {
+	
+	/*
+	@brief 서브메뉴 관리
+	@detail 재고, 입고, 출고를 관리하기 위한 클래스
+	@author 최명규
+	@date 21.06.10
+	@version 1.0.1
+	*/
+	
 	public void Submenu() {
 	
 	Mainmenu me = new Mainmenu();
